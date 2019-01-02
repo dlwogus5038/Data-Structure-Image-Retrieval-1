@@ -1,0 +1,1 @@
+﻿运行"MFCApplication1.exe"文件之前，需要把所有5613个图片放在src/MFCApplication1/MFCApplication1/image文件内。然后运行它就可以。

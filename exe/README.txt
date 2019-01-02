@@ -1,0 +1,1 @@
+﻿执行图像界面请移步到[src->图像索引、搜索以及可视化->exe]目录下运行MFCApplication1.exe
